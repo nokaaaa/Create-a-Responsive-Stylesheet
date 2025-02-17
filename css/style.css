@@ -31,7 +31,7 @@ img {
     border: 2px solid #333;
 }
 
-/* ?? Tablet View: Trigger at 772px */
+/* 📌 Tablet View: Trigger at 772px */
 @media screen and (min-width: 772px) {
     .container {
         flex-direction: row;
@@ -50,7 +50,7 @@ img {
     }
 }
 
-/* ?? Large Screen View: Trigger at 998px */
+/* 📌 Large Screen View: Trigger at 998px */
 @media screen and (min-width: 998px) {
     .box {
         width: 30%; /* Large screen: Three boxes per row */
